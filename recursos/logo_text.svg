@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650.24 120.14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #112444;
+        font-family: Montserrat-Black, Montserrat;
+        font-size: 107.27px;
+        font-weight: 800;
+      }
+
+      .cls-2 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <g id="ENTREGA">
+    <text class="cls-1" transform="translate(0 91.17)"><tspan x="0" y="0">MO</tspan><tspan class="cls-2" x="193.29" y="0">B</tspan><tspan x="274.6" y="0">Y TRIP</tspan></text>
+  </g>
+</svg>
