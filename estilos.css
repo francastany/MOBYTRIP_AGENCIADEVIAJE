@@ -84,6 +84,7 @@ header h1 {
 #hero {
   width: 100%;
   margin-top: 60px;
+  animation: fadeIn 1.2s ease-in-out;
 }
 
 #hero_texto {
@@ -333,6 +334,7 @@ footer ul li a:hover {
   width: 100%;
   height: 620px;
   margin-top: 60px;
+  animation: fadeIn 1.2s ease-in-out;
 }
 
 #nosotros_hero-img {
@@ -432,6 +434,7 @@ footer ul li a:hover {
   width: 100%;
   margin-top: 65px;
   height: 600px;
+  animation: fadeIn 1.2s ease-in-out;
 }
 
 #paquetes_carrusel h2 {
@@ -594,6 +597,7 @@ footer ul li a:hover {
 #preguntas {
   width: 100%;
   margin: 65px 0;
+  animation: fadeIn 1.2s ease-in-out;
 }
 
 #preguntas h2 {
@@ -675,6 +679,7 @@ footer ul li a:hover {
   padding: 30px;
   margin: 20px auto;
   height: 300px;
+  animation: fadeIn 1.2s ease-in-out;
 }
 
 #contacto_formulario #nombre,
@@ -729,4 +734,14 @@ footer ul li a:hover {
 #contacto_formulario a:hover {
   color: #eef4ed;
   background-color: #1b3058;
+}
+
+/* Animación básica de entrada */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
